@@ -44,5 +44,10 @@ if you are about to attend [188.995 Data-oriented Programming Paradigms](https:/
 
 ### Evaluation
 
-tba
+Homework exercises will be released on each of the first 4 days. Solutions must be
+submitted via GitHub classroom, links for this will be available to registered students
+on [TUWEL](https://tuwel.tuwien.ac.at/course/view.php?idnumber=194123-2022W). The
+deadline for submitting all exercises is Thursday (9/29) 23.59 (CEST), scores will be
+published the next morning. The exercises on Friday can be used to earn
+bonus points.
 
