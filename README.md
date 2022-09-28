@@ -51,3 +51,11 @@ deadline for submitting all exercises is Thursday (9/29) 23.59 (CEST), scores wi
 published the next morning. The exercises on Friday can be used to earn
 bonus points.
 
+### Grading
+
+Each of the first 4 daily exercises are worth 25 points, for a maximum of 100 points.
+The Friday exercise is worth a maximum of 15 bonus points.
+
+Final grades will be determined using the following ranges:
+
+1: 89 – 115, 2: 76 – 88, 3: 63 – 75, 4: 50 – 62
