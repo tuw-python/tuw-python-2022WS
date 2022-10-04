@@ -3,7 +3,7 @@
 
 [TISS page](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=2845&dsrid=656&courseNr=194123&semester=2022W)
 
-**WARNING: the course material is not yet finalized. If you download the notebooks now, make sure you update them before the course starts**
+[Lecture videos](https://www.youtube.com/playlist?list=PLrrW7I2LNLRYROQzeCKFhmDjd2vH7BJSi)
 
 ### Time and place
 
